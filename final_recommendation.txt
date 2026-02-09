@@ -1,0 +1,9 @@
+
+Based on the A/B testing results, Paid Search campaigns show a higher average expected uplift
+compared to Email campaigns.
+
+The statistical test indicates that the difference is significant, meaning it is unlikely to
+be due to random chance.
+
+Therefore, it is recommended that the business allocate more budget and focus towards
+Paid Search campaigns to maximize performance.
